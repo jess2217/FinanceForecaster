@@ -24,7 +24,7 @@ The project evaluates both models using:
 
 ### Interactive Dashboard
 
-![FinanceForecaster Dashboard](screenshots/Dashboard(1).png)
+![FinanceForecaster Dashboard](screenshots/dashboard(1).png)
 
 ### Model Performance
 
