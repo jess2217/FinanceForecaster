@@ -2,7 +2,7 @@
 
 ### Stock Price Prediction using Linear Regression and LSTM
 
-FinanceForecaster is a machine learning-based stock forecasting application that analyzes historical market data and compares two different prediction approaches: **Linear Regression** and **LSTM Neural Networks**.
+FinanceForecaster is a machine learning-based stock forecasting application that analyzes historical market data and compares two prediction approaches: **Linear Regression** and **LSTM Neural Networks**.
 
 The project combines a machine learning pipeline, Flask REST API, and Streamlit dashboard to provide an interactive stock forecasting experience.
 
@@ -17,6 +17,9 @@ The project evaluates both models using:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+
+---
+
 ## 📸 Application Preview
 
 ### Interactive Dashboard
@@ -71,4 +74,4 @@ The project evaluates both models using:
                   Flask API
                        │
                        ▼
-                Streamlit Dashboard
+              Streamlit Dashboard
