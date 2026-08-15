@@ -17,6 +17,15 @@ The project evaluates both models using:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+## 📸 Application Preview
+
+### Interactive Dashboard
+
+![FinanceForecaster Dashboard](screenshots/Dashboard(1).png)
+
+### Model Performance
+
+![Model Performance](screenshots/model-performance.png)
 
 ---
 
