@@ -22,7 +22,7 @@ The project evaluates both models using:
 
 ## 📸 Application Preview
 
-![FinanceForecaster Dashboard](screenshots/dashboard.png)
+![FinanceForecaster Dashboard](screenshots/Dashboard.png)
 
 ### Model Performance
 
